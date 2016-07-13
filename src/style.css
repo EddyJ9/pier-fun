@@ -152,6 +152,7 @@ body {
 #shop-now-sale {
 	height: 40px;
 	background-image: url("images/redbackground.jpg")
+}
 
 .shop-now-list {
 	font-weight: 400px;
@@ -185,8 +186,9 @@ body {
 	padding-right: 2px;
 }
 
-#chair-img {
-	float: left;
-}
+
+
+
+
 
 
